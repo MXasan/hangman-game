@@ -1,0 +1,275 @@
+.oi-regular {
+    font-family: "Oi", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Atma", serif;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    height: 100vh;
+    background-image: url("./imgs/bgv.avif");
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: start;
+}
+
+.modal-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+.modal-dn{
+    display: none;
+
+}
+
+.modal {
+    width: 500px;
+    height: 300px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    list-style-type: none;
+}
+
+li {
+    font-size: 30px;
+}
+
+.hangman-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hangman-img img {
+    width: 500px;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
+.hangman-info {
+    text-align: center;
+    margin-top: 10px;
+    width: 33.78vw;
+}
+
+.keybord button:hover {
+    background-color: #ddd;
+}
+
+.keybord button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 5px;
+}
+
+.quation {
+    margin-top: 20px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.hangman-info ul,
+p {
+    margin-bottom: 50px;
+}
+
+.modal-p {
+    background: rgb(26, 37, 190);
+}
+
+
+@media screen and (max-width: 958px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hangman-info {
+        width: 90vw;
+    }
+
+    .hangman-info ul,
+    p {
+        margin-bottom: 30px;
+    }
+
+    .hangman-img img {
+        width: 500px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width:750px) {
+
+    .hangman-info {
+        width: 90vw;
+    }
+
+    .hangman-img img {
+        width: 300px;
+        height: 300px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    .quation {
+        font-size: 20px;
+    }
+
+}
+
+
+
+
+
+.modal-p {
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    font-size: 32px;
+}
+
+#modal-message {
+    margin-bottom: 20px;
+    font-size: 23px;
+    line-height: 1.5;
+    padding-left: 30px;
+}
+
+.modal-content button {
+    margin-bottom: 20px;
+    line-height: 1.5;
+    width: 300px;
+    height: 70px;
+    color: #fff;
+    font-size: 23px;
+    background: rgb(132, 132, 141);
+}
+
+.keybord button {
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+
+}
+
+
+.modal-content {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 499px) {
+
+    .keybord button {
+        width: 38px;
+        height: 38px;
+        font-size: 16px;
+    }
+
+    .modal {
+        width: 300px;
+        height: 200px;
+        position: absolute;
+        background: #fff;
+        border-radius: 10px;
+    }
+
+    .modal-p {
+        border-radius: 5px 5px 0px 0px;
+        margin-bottom: 5px;
+        text-align: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        color: #fff;
+        font-size: 24px;
+    }
+
+    #modal-message {
+        margin-bottom: 10px;
+        font-size: 18px;
+        line-height: 1.5;
+        padding-left: 20px;
+    }
+
+    .modal-content button {
+        margin-bottom: 20px;
+        line-height: 1.5;
+        width: 100px;
+        height: 40px;
+        color: #fff;
+        font-size: 16px;
+        background: rgb(132, 132, 141);
+    }
+
+    .modal-content {
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-height: 868px) {
+    .hangman-img img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .hangman-info {
+        margin-top: 0;
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+
+    .hangman-info ul,
+    p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}

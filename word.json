@@ -1,0 +1,466 @@
+[
+    {
+        "word": "guitar",
+        "hint": "A musical instrument with strings."
+    },
+    {
+        "word": "oxygen",
+        "hint": "A colorless, odorless gas essential for life."
+    },
+    {
+        "word": "mountain",
+        "hint": "A large natural elevation of the Earth's surface."
+    },
+    {
+        "word": "painting",
+        "hint": "An art form using colors on a surface to create images or expression."
+    },
+    {
+        "word": "banquet",
+        "hint": "An elaborate meal or feast for many people."
+    },
+    {
+        "word": "yacht",
+        "hint": "A large boat used for recreation or racing."
+    },
+    {
+        "word": "pyramid",
+        "hint": "A monumental structure with a square base and triangular sides that meet at a point."
+    },
+    {
+        "word": "zebra",
+        "hint": "An African animal with black-and-white stripes."
+    },
+    {
+        "word": "espresso",
+        "hint": "A concentrated form of coffee brewed by forcing hot water through finely-ground beans."
+    },
+    {
+        "word": "firefly",
+        "hint": "An insect that produces light and glows in the dark."
+    },
+    {
+        "word": "jigsaw",
+        "hint": "A type of puzzle where pieces fit together to form an image."
+    },
+    {
+        "word": "boomerang",
+        "hint": "A curved tool that returns to the thrower when thrown correctly."
+    },
+    {
+        "word": "parachute",
+        "hint": "A device used to slow down the fall of a person or object from the sky."
+    },
+    {
+        "word": "carousel",
+        "hint": "A rotating amusement ride with seats shaped like animals."
+    },
+    {
+        "word": "stethoscope",
+        "hint": "A medical instrument used to listen to the heart and lungs."
+    },
+    {
+        "word": "jungle",
+        "hint": "A dense forest in tropical regions with thick vegetation."
+    },
+    {
+        "word": "compassion",
+        "hint": "A feeling of sympathy and concern for others."
+    },
+    {
+        "word": "violin",
+        "hint": "A stringed musical instrument played with a bow."
+    },
+    {
+        "word": "blizzard",
+        "hint": "A severe snowstorm with strong winds and low visibility."
+    },
+    {
+        "word": "lighthouse",
+        "hint": "A tall tower with a light that guides ships at sea."
+    },
+    {
+        "word": "treasure",
+        "hint": "A collection of valuable items like gold, jewels, or artifacts."
+    },
+    {
+        "word": "ocean",
+        "hint": "A vast body of saltwater that covers most of the Earth."
+    },
+    {
+        "word": "elephant",
+        "hint": "A large herbivorous mammal with a trunk and tusks."
+    },
+    {
+        "word": "chef",
+        "hint": "A professional cook in charge of a kitchen."
+    },
+    {
+        "word": "parrot",
+        "hint": "A colorful bird known for its ability to mimic sounds and speech."
+    },
+    {
+        "word": "astronomy",
+        "hint": "The scientific study of celestial objects and phenomena."
+    },
+    {
+        "word": "football",
+        "hint": "A popular sport played with a spherical ball."
+    },
+    {
+        "word": "chocolate",
+        "hint": "A sweet treat made from cocoa beans."
+    },
+    {
+        "word": "butterfly",
+        "hint": "An insect with colorful wings and a slender body."
+    },
+    {
+        "word": "history",
+        "hint": "The study of past events and human civilization."
+    },
+    {
+        "word": "pizza",
+        "hint": "A savory dish consisting of a round, flattened base with toppings."
+    },
+    {
+        "word": "jazz",
+        "hint": "A genre of music characterized by improvisation and syncopation."
+    },
+    {
+        "word": "camera",
+        "hint": "A device used to capture and record images or videos."
+    },
+    {
+        "word": "diamond",
+        "hint": "A precious gemstone known for its brilliance and hardness."
+    },
+    {
+        "word": "adventure",
+        "hint": "An exciting or daring experience."
+    },
+    {
+        "word": "science",
+        "hint": "The systematic study of the structure and behavior of the physical and natural world."
+    },
+    {
+        "word": "bicycle",
+        "hint": "A human-powered vehicle with two wheels."
+    },
+    {
+        "word": "sunset",
+        "hint": "The daily disappearance of the sun below the horizon."
+    },
+    {
+        "word": "coffee",
+        "hint": "A popular caffeinated beverage made from roasted coffee beans."
+    },
+    {
+        "word": "dance",
+        "hint": "A rhythmic movement of the body often performed to music."
+    },
+    {
+        "word": "galaxy",
+        "hint": "A vast system of stars, gas, and dust held together by gravity."
+    },
+    {
+        "word": "orchestra",
+        "hint": "A large ensemble of musicians playing various instruments."
+    },
+    {
+        "word": "volcano",
+        "hint": "A mountain or hill with a vent through which lava, rock fragments, hot vapor, and gas are ejected."
+    },
+    {
+        "word": "novel",
+        "hint": "A long work of fiction, typically with a complex plot and characters."
+    },
+    {
+        "word": "sculpture",
+        "hint": "A three-dimensional art form created by shaping or combining materials."
+    },
+    {
+        "word": "symphony",
+        "hint": "A long musical composition for a full orchestra, typically in multiple movements."
+    },
+    {
+        "word": "architecture",
+        "hint": "The art and science of designing and constructing buildings."
+    },
+    {
+        "word": "ballet",
+        "hint": "A classical dance form characterized by precise and graceful movements."
+    },
+    {
+        "word": "astronaut",
+        "hint": "A person trained to travel and work in space."
+    },
+    {
+        "word": "waterfall",
+        "hint": "A cascade of water falling from a height."
+    },
+    {
+        "word": "technology",
+        "hint": "The application of scientific knowledge for practical purposes."
+    },
+    {
+        "word": "rainbow",
+        "hint": "A meteorological phenomenon that is caused by reflection, refraction, and dispersion of light."
+    },
+    {
+        "word": "universe",
+        "hint": "All existing matter, space, and time as a whole."
+    },
+    {
+        "word": "piano",
+        "hint": "A musical instrument played by pressing keys that cause hammers to strike strings."
+    },
+    {
+        "word": "vacation",
+        "hint": "A period of time devoted to pleasure, rest, or relaxation."
+    },
+    {
+        "word": "rainforest",
+        "hint": "A dense forest characterized by high rainfall and biodiversity."
+    },
+    {
+        "word": "theater",
+        "hint": "A building or outdoor area in which plays, movies, or other performances are staged."
+    },
+    {
+        "word": "telephone",
+        "hint": "A device used to transmit sound over long distances."
+    },
+    {
+        "word": "language",
+        "hint": "A system of communication consisting of words, gestures, and syntax."
+    },
+    {
+        "word": "desert",
+        "hint": "A barren or arid land with little or no precipitation."
+    },
+    {
+        "word": "sunflower",
+        "hint": "A tall plant with a large yellow flower head."
+    },
+    {
+        "word": "fantasy",
+        "hint": "A genre of imaginative fiction involving magic and supernatural elements."
+    },
+    {
+        "word": "telescope",
+        "hint": "An optical instrument used to view distant objects in space."
+    },
+    {
+        "word": "breeze",
+        "hint": "A gentle wind."
+    },
+    {
+        "word": "oasis",
+        "hint": "A fertile spot in a desert where water is found."
+    },
+    {
+        "word": "photography",
+        "hint": "The art, process, or practice of creating images by recording light or other electromagnetic radiation."
+    },
+    {
+        "word": "safari",
+        "hint": "An expedition or journey, typically to observe wildlife in their natural habitat."
+    },
+    {
+        "word": "planet",
+        "hint": "A celestial body that orbits a star and does not produce light of its own."
+    },
+    {
+        "word": "river",
+        "hint": "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream."
+    },
+    {
+        "word": "tropical",
+        "hint": "Relating to or situated in the region between the Tropic of Cancer and the Tropic of Capricorn."
+    },
+    {
+        "word": "mysterious",
+        "hint": "Difficult or impossible to understand, explain, or identify."
+    },
+    {
+        "word": "enigma",
+        "hint": "Something that is mysterious, puzzling, or difficult to understand."
+    },
+    {
+        "word": "paradox",
+        "hint": "A statement or situation that contradicts itself or defies intuition."
+    },
+    {
+        "word": "puzzle",
+        "hint": "A game, toy, or problem designed to test ingenuity or knowledge."
+    },
+    {
+        "word": "whisper",
+        "hint": "To speak very softly or quietly, often in a secretive manner."
+    },
+    {
+        "word": "shadow",
+        "hint": "A dark area or shape produced by an object blocking the light."
+    },
+    {
+        "word": "secret",
+        "hint": "Something kept hidden or unknown to others."
+    },
+    {
+        "word": "curiosity",
+        "hint": "A strong desire to know or learn something."
+    },
+    {
+        "word": "unpredictable",
+        "hint": "Not able to be foreseen or known beforehand; uncertain."
+    },
+    {
+        "word": "obfuscate",
+        "hint": "To confuse or bewilder someone; to make something unclear or difficult to understand."
+    },
+    {
+        "word": "unveil",
+        "hint": "To make known or reveal something previously secret or unknown."
+    },
+    {
+        "word": "illusion",
+        "hint": "A false perception or belief; a deceptive appearance or impression."
+    },
+    {
+        "word": "moonlight",
+        "hint": "The light from the moon."
+    },
+    {
+        "word": "vibrant",
+        "hint": "Full of energy, brightness, and life."
+    },
+    {
+        "word": "nostalgia",
+        "hint": "A sentimental longing or wistful affection for the past."
+    },
+    {
+        "word": "brilliant",
+        "hint": "Exceptionally clever, talented, or impressive."
+    },
+    {
+        "word": "lightning",
+        "hint": "A sudden flash of light in the sky caused by an electrical discharge."
+    },
+    {
+        "word": "penguin",
+        "hint": "A flightless bird native to Antarctica, known for its tuxedo-like appearance."
+    },
+    {
+        "word": "horizon",
+        "hint": "The line where the Earth’s surface and the sky appear to meet."
+    },
+    {
+        "word": "microphone",
+        "hint": "A device that converts sound into an electrical signal."
+    },
+    {
+        "word": "tornado",
+        "hint": "A violent rotating column of air in contact with the ground."
+    },
+    {
+        "word": "emerald",
+        "hint": "A green gemstone that is a variety of the mineral beryl."
+    },
+    {
+        "word": "butterscotch",
+        "hint": "A type of confectionery made primarily from butter and brown sugar."
+    },
+    {
+        "word": "labyrinth",
+        "hint": "A complicated network of passages or paths, often considered a maze."
+    },
+    {
+        "word": "quarantine",
+        "hint": "A period of isolation to prevent the spread of disease."
+    },
+    {
+        "word": "kangaroo",
+        "hint": "A marsupial native to Australia, known for its powerful legs and hopping."
+    },
+    {
+        "word": "watermelon",
+        "hint": "A large fruit with a green rind and sweet, juicy, red flesh."
+    },
+    {
+        "word": "avalanche",
+        "hint": "A sudden flow of snow, ice, and rocks down a mountainside."
+    },
+    {
+        "word": "astronomy",
+        "hint": "The scientific study of celestial objects like stars and planets."
+    },
+    {
+        "word": "hummingbird",
+        "hint": "A small bird capable of hovering and known for its rapid wing beats."
+    },
+    {
+        "word": "compass",
+        "hint": "A tool used for navigation that shows directions."
+    },
+    {
+        "word": "glacier",
+        "hint": "A massive, slow-moving river of ice."
+    },
+    {
+        "word": "landscape",
+        "hint": "The visible features of an area, including hills, rivers, and vegetation."
+    },
+    {
+        "word": "peppermint",
+        "hint": "A plant with a fresh aroma, often used in candies and teas."
+    },
+    {
+        "word": "tsunami",
+        "hint": "A large sea wave caused by underwater earthquakes or volcanic eruptions."
+    },
+    {
+        "word": "koala",
+        "hint": "An herbivorous marsupial native to Australia, often found in eucalyptus trees."
+    },
+    {
+        "word": "volleyball",
+        "hint": "A team sport where players hit a ball over a net using their hands."
+    },
+    {
+        "word": "fireworks",
+        "hint": "Explosive devices used for celebrations that create colorful displays in the sky."
+    },
+    {
+        "word": "origami",
+        "hint": "The Japanese art of paper folding to create decorative shapes and figures."
+    },
+    {
+        "word": "hurricane",
+        "hint": "A powerful tropical storm with strong winds and heavy rain."
+    },
+    {
+        "word": "peacock",
+        "hint": "A bird known for its colorful and elaborate tail feathers."
+    },
+    {
+        "word": "satellite",
+        "hint": "An artificial object placed in orbit around Earth or another planet."
+    },
+    {
+        "word": "robotics",
+        "hint": "The technology and science of designing and building robots."
+    },
+    {
+        "word": "voltage",
+        "hint": "The electrical potential difference between two points."
+    },
+    {
+        "word": "clockwise",
+        "hint": "Moving in the direction of the hands on a clock."
+    },
+    {
+        "word": "backpack",
+        "hint": "A bag with shoulder straps used for carrying belongings."
+    }
+]
